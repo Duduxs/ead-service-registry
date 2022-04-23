@@ -8,12 +8,12 @@ group = 'com.ead'
 version = '0.0.1-SNAPSHOT'
 sourceCompatibility = '17'
 
-repositories {
-	mavenCentral()
-}
-
 ext {
 	set('springCloudVersion', "2021.0.1")
+}
+
+repositories {
+	mavenCentral()
 }
 
 dependencies {
