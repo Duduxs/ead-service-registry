@@ -1,10 +1,12 @@
 server:
   port: ${PORT}
 
+
 ead:
   serviceRegistry:
     username: ${EUREKA_USERNAME}
     password: ${EUREKA_PASSWORD}
+
 
 eureka:
   client:
