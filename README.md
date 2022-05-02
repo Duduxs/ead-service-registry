@@ -49,7 +49,7 @@ $ git clone https://github.com/Duduxs/ead-service-registry
 -  Make a push to your branch: `git push origin my-feature`.
 
 ## :memo: License
-This project is under the MIT license. See the [LICENSE](https://github.com/Duduxs/ead-config-server/blob/main/LICENSE) for more information.
+This project is under the MIT license. See the [LICENSE](https://github.com/Duduxs/ead-service-registry/blob/main/LICENSE) for more information.
 
 
 ---
